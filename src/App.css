@@ -1,0 +1,20 @@
+.weather-base-card {
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.search-location {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.search-location .form-control {
+    box-shadow: none !important;
+    border: none !important;
+    background-color: #fff !important;
+    border-radius: none !important;
+}
